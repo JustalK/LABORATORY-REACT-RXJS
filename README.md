@@ -12,11 +12,19 @@ In addition, I added `prettier` and configured it for working well with `esLint`
 
 I explain with all the details how I build the project and my way of working.
 
+- [Experiences](#experiences)
 - [Documentation](#documentation)
 - [Organization](#organization)
 - [Development](#development)
 - [Running](#running)
 - [Commands](#commands)
+
+## Experiences
+
+- **Experience0**: Template experience
+
+- **Experience1**: Creating an hook useObservable
+- **Experience2**: Calling an observable with synchronous and asynchronous data
 
 ## Documentation
 #### Code documentation
