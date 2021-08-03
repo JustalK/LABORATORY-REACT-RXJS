@@ -13,9 +13,12 @@ const onRender = (id, phase, actualDuration) => {
  * @return {Object} Return the dom of the Experience
  */
 const Experience = () => {
+  const handleClick = () => {}
   return (
     <Profiler id="Experience" onRender={onRender}>
-      <div>Look at the console</div>
+      <button onClick={handleClick}>
+        Call the Observable and then look at the console
+      </button>
     </Profiler>
   )
 }

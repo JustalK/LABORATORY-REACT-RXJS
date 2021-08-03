@@ -13,6 +13,7 @@ In addition, I added `prettier` and configured it for working well with `esLint`
 I explain with all the details how I build the project and my way of working.
 
 - [Experiences](#experiences)
+- [Links](#links)
 - [Documentation](#documentation)
 - [Organization](#organization)
 - [Development](#development)
@@ -25,6 +26,11 @@ I explain with all the details how I build the project and my way of working.
 
 - **Experience1**: Creating an hook useObservable
 - **Experience2**: Calling an observable with synchronous and asynchronous data
+- **Experience2**: Unsubscribing an infinite subscription
+
+## Links
+
+- [RXJS Official documentation](https://rxjs.dev/guide/)
 
 ## Documentation
 #### Code documentation
