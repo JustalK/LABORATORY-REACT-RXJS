@@ -26,7 +26,9 @@ I explain with all the details how I build the project and my way of working.
 
 - **Experience1**: Creating an hook useObservable
 - **Experience2**: Calling an observable with synchronous and asynchronous data
-- **Experience2**: Unsubscribing an infinite subscription
+- **Experience3**: Unsubscribing an infinite subscription
+- **Experience4**: Creating an observer
+- **Experience5**: Using pipe and map operators
 
 ## Links
 
