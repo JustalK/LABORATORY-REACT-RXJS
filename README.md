@@ -28,7 +28,8 @@ I explain with all the details how I build the project and my way of working.
 - **Experience2**: Calling an observable with synchronous and asynchronous data
 - **Experience3**: Unsubscribing an infinite subscription
 - **Experience4**: Creating an observer
-- **Experience5**: Using pipe and map operators
+- **Experience5**: Using pipe and map operators (creating a custom operator with pipe)
+- **Experience6**: Unsubscribe multiple subscription at the same time with add
 
 ## Links
 
