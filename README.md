@@ -31,6 +31,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience5**: Using pipe and map operators (creating a custom operator with pipe)
 - **Experience6**: Unsubscribe multiple subscription at the same time with add
 - **Experience7**: Multiple Observer using Subject
+- **Experience8**: Hot multicasting (A0 - B0 - CC - 0D - 0E)
 
 ## Links
 
