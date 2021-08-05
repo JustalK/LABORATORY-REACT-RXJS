@@ -33,6 +33,8 @@ I explain with all the details how I build the project and my way of working.
 - **Experience7**: Multiple Observer using Subject
 - **Experience8**: Hot multicasting (A0 - B0 - CC - 0D - 0E)
 - **Experience9**: Hot Multiple Observer using BehaviorSubject
+- **Experience10**: Hot Multiple Observer using ReplaySubject
+- **Experience11**: Scheduler vs normal subscribe
 
 ## Links
 
