@@ -4,6 +4,7 @@
 
 import React, { Profiler } from 'react'
 import { Observable } from 'rxjs'
+import { map } from 'rxjs/operators'
 
 const onRender = (id, phase, actualDuration) => {
   console.log(id, phase, actualDuration)
@@ -19,6 +20,8 @@ const data$ = Observable.create(async (observer) => {
   observer.complete()
 })
 
+const obs = data$.pipe(map((v) => v.results[0]))
+
 const observer = {
   next: (v) => console.log(v),
   complete: () => console.log('Done')
@@ -30,7 +33,7 @@ const observer = {
  */
 const Experience = () => {
   const handleClick = () => {
-    data$.subscribe(observer)
+    obs.subscribe(observer)
   }
 
   return (

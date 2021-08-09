@@ -37,7 +37,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience11**: Scheduler vs normal subscribe
 - **Experience12**: Manage observable sequentially with concat
 - **Experience13**: Manage observable concurrently with merge
-- **Experience13**: Managing call to api (random user) with fetch and observable
+- **Experience14**: Managing call to api (random user) with fetch and observable
 
 
 ## Links
