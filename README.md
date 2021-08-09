@@ -35,6 +35,9 @@ I explain with all the details how I build the project and my way of working.
 - **Experience9**: Hot Multiple Observer using BehaviorSubject
 - **Experience10**: Hot Multiple Observer using ReplaySubject
 - **Experience11**: Scheduler vs normal subscribe
+- **Experience12**: Manage observable sequentially with concat
+- **Experience13**: Manage observable concurrently with concat
+
 
 ## Links
 
