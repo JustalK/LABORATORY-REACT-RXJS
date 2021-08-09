@@ -36,12 +36,14 @@ I explain with all the details how I build the project and my way of working.
 - **Experience10**: Hot Multiple Observer using ReplaySubject
 - **Experience11**: Scheduler vs normal subscribe
 - **Experience12**: Manage observable sequentially with concat
-- **Experience13**: Manage observable concurrently with concat
+- **Experience13**: Manage observable concurrently with merge
+- **Experience13**: Managing call to api (random user) with fetch and observable
 
 
 ## Links
 
 - [RXJS Official documentation](https://rxjs.dev/guide/)
+- [Teck Geek Next - Advanced Tutorials](https://www.techgeeknext.com/angular/rxjs-tutorial)
 
 ## Documentation
 #### Code documentation

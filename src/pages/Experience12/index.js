@@ -14,7 +14,7 @@ const result$ = concat(serie1$, serie2$)
 
 const observer = {
   next: (v) => console.log(v),
-  completed: () => 'Done'
+  complete: () => console.log('Done')
 }
 
 const onRender = (id, phase, actualDuration) => {
