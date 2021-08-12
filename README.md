@@ -38,6 +38,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience12**: Manage observable sequentially with concat
 - **Experience13**: Manage observable concurrently with merge
 - **Experience14**: Managing call to api (random user) with fetch and observable
+- **Experience15**: Creating an event detector with observer (click, keyup)
 
 
 ## Links
