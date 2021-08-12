@@ -40,6 +40,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience14**: Managing call to api (random user) with fetch and observable
 - **Experience15**: fromEvent: Creating an event detector with observer (click, keyup)
 - **Experience16**: Debounce/delay an event (Playing with startWidth and endWith)
+- **Experience17**: Using switchMap for making an API after a delay on input 
 
 
 ## Links
