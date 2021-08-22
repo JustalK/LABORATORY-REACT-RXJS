@@ -42,6 +42,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience16**: Debounce/delay an event (Playing with startWidth and endWith)
 - **Experience17**: Using switchMap for making an API after a delay on input
 - **Experience18**: Logging with Tap
+- **Experience19**: Observable until a certain date (timer and takeUntil)
 
 
 ## Links
