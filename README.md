@@ -43,6 +43,8 @@ I explain with all the details how I build the project and my way of working.
 - **Experience17**: Using switchMap for making an API after a delay on input
 - **Experience18**: Logging with Tap
 - **Experience19**: Observable until a certain date (timer and takeUntil)
+- **Experience20**: Difference between Interval and Timer
+- **Experience21**: v7: firstValueFrom (subscribing and getting the first value of observable)
 
 
 ## Links
