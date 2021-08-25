@@ -45,6 +45,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience19**: Observable until a certain date (timer and takeUntil)
 - **Experience20**: Difference between Interval and Timer
 - **Experience21**: v7: firstValueFrom (subscribing and getting the first value of observable)
+- **Experience22**: Testing the iff for changing observable dynamically
 
 
 ## Links
