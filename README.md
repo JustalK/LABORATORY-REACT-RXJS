@@ -54,6 +54,7 @@ I explain with all the details how I build the project and my way of working.
 - [RXJS Official documentation](https://rxjs.dev/guide/)
 - [Teck Geek Next - Advanced Tutorials](https://www.techgeeknext.com/angular/rxjs-tutorial)
 - [RXJS Example](https://www.learnrxjs.io/learn-rxjs/operators/combination/race)
+
 ## Documentation
 #### Code documentation
 
