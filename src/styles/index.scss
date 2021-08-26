@@ -19,6 +19,10 @@ body {
   border-right: 1px solid #e2e2e2;
 }
 
+.button {
+  display: block;
+}
+
 .content {
   width: 100%;
   padding: 20px;
@@ -30,7 +34,7 @@ body {
   }
   &:hover {
     & .yes {
-      display: initial; 
+      display: initial;
     }
     & .no {
       display: none;
