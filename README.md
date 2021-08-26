@@ -47,13 +47,13 @@ I explain with all the details how I build the project and my way of working.
 - **Experience21**: v7: firstValueFrom (subscribing and getting the first value of observable)
 - **Experience22**: Testing the iff for changing observable dynamically
 - **Experience23**: Get only the odd number of an interval by using iif
-
+- **Experience24**: Creating a race between observable with raceWith
 
 ## Links
 
 - [RXJS Official documentation](https://rxjs.dev/guide/)
 - [Teck Geek Next - Advanced Tutorials](https://www.techgeeknext.com/angular/rxjs-tutorial)
-
+- [RXJS Example](https://www.learnrxjs.io/learn-rxjs/operators/combination/race)
 ## Documentation
 #### Code documentation
 
