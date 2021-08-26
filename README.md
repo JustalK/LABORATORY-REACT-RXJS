@@ -46,6 +46,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience20**: Difference between Interval and Timer
 - **Experience21**: v7: firstValueFrom (subscribing and getting the first value of observable)
 - **Experience22**: Testing the iff for changing observable dynamically
+- **Experience23**: Get only the odd number of an interval by using iif
 
 
 ## Links
