@@ -1,5 +1,5 @@
 /**
- * @module Experiences/Experience0
+ * @module Experiences/Experience25
  */
 
 import React, { Profiler } from 'react'
