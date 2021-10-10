@@ -50,6 +50,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience24**: Creating a race between observable with raceWith
 - **Experience25**: Using combineLatest for returning all the observable together in their order
 - **Experience26**: Using withLatestFrom for returning all the observable together depending on one source
+- **Experience27**: Using FromEventPattern instead of FromEvent for generic EventHandler
 
 ## Links
 
