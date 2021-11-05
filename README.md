@@ -51,7 +51,7 @@ I explain with all the details how I build the project and my way of working.
 - **Experience25**: Using combineLatest for returning all the observable together in their order
 - **Experience26**: Using withLatestFrom for returning all the observable together depending on one source
 - **Experience27**: Using FromEventPattern instead of FromEvent for generic EventHandler
-- **Experience28**: Using finalize for catching the end of an observable
+- **Experience28**: Using finalize for catching the end of a sequence after the end of a subscription (complete)
 
 ## Links
 
