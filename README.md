@@ -1,8 +1,9 @@
-# REACT APP TEMPLATE
+# REACT RXJS
 
 ## Goal
 
-This project is a template for building react-app with all my favorite tools already configured.
+This project is my laboratory with `RXJS`.
+I am testing the different functions of RXJS, reading through the official documentation and tutorial online and try to understand the use of the reactive programming using observable. I am experimenting what I find online by creating few experience that I can easily and completely understand.
 
 Obviously, the app is using the latest version of `react`. For avoiding the relative path, I modified the webpack and allowing the import with an alias. I also added the support for sass files.
 
